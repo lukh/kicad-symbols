@@ -432,6 +432,12 @@ K I2C TWI
 F http://ww1.microchip.com/downloads/en/DeviceDoc/20005192B.pdf
 $ENDCMP
 #
+$CMP MCP9904T
+D Multi-Channel Low-Temperature Remote Diode Sensor
+K temperature sensor smbus i2c
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005382C.pdf
+$ENDCMP
+#
 $CMP PCT2075D
 D NXP I2C-bus Fm+ digital temperature sensor and thermal watchdog, SO-8
 K temperature sensor I2C single channel
