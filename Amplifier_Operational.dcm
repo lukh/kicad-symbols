@@ -1848,10 +1848,22 @@ K op amp operational amplifier
 F https://www.ti.com/lit/ds/symlink/tlv9001.pdf
 $ENDCMP
 #
+$CMP TLV9002
+D Dual Operational Amplifiers, 1-MHz, low-noise, RRIO, CMOS, DIP-8/SOIC-8/TSSOP-8/VSSOP-8/WSON-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lm358.pdf
+$ENDCMP
+#
 $CMP TLV9004xRUCR
 D Low-Power, Quad-Operational Amplifiers, Texas S-PX2QFN-14
 K quad opamp
 F http://www.ti.com/lit/ds/symlink/tlv9004.pdf
+$ENDCMP
+#
+$CMP TLV9062
+D Dual Operational Amplifiers, 10-MHz, low-noise, RRIO, CMOS, DIP-8/SOIC-8/TSSOP-8/VSSOP-8/WSON-8
+K dual opamp
+F https://www.ti.com/lit/gpn/tlv9062
 $ENDCMP
 #
 $CMP TS881xCx
