@@ -1866,6 +1866,12 @@ K dual opamp
 F https://www.ti.com/lit/gpn/tlv9062
 $ENDCMP
 #
+$CMP TLV9064
+D Low-Power, Rail to Rail, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14
+K quad opamp
+F https://www.ti.com/lit/ds/symlink/tlv9064.pdf
+$ENDCMP
+#
 $CMP TS881xCx
 D Rail-to-rail 0.9V nanopower comparator, SC-70-5
 K single comparator
